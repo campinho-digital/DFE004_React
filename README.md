@@ -29,4 +29,4 @@ Algumas funcionalidades que pretendo incluir no projeto no futuro são:
 - Filtro por status (alive, dead, unknown) para categorizar e filtrar a lista de personagens de acordo com seu status e cor da borda no card.
 
 ## Deploy
-A versão atual deste projeto pode ser acessada através do link de deploy: [https://rickandmortyapp-alpha.vercel.app/].
+A versão atual deste projeto pode ser acessada através do link de deploy: [https://dfe-004-react-d1mq.vercel.app/].
